@@ -1,0 +1,242 @@
+[
+  {
+    "headline": "NASA selects crew for Artemis II lunar flyby mission",
+    "summary": "NASA announced the four astronauts who will fly aboard Artemis II, the first crewed mission around the Moon in more than fifty years. The mission will test life-support systems and navigation ahead of future lunar landings. Launch is targeted for late next year from Kennedy Space Center. The crew includes veterans from prior station and shuttle flights.",
+    "sourceName": "NASA",
+    "sourceUrl": "https://www.nasa.gov/news-release/nasa-selects-artemis-ii-crew/",
+    "category": "science",
+    "publishedAt": "2026-08-31T10:00:00.000Z"
+  },
+  {
+    "headline": "CDC updates guidance on respiratory virus season",
+    "summary": "The Centers for Disease Control and Prevention issued updated recommendations for the upcoming respiratory virus season. Officials urge eligible Americans to receive updated vaccines and stay home when sick. Hospitals are advised to prepare for higher emergency visits in fall and winter. The guidance emphasizes ventilation and testing for vulnerable populations in congregate settings.",
+    "sourceName": "CDC",
+    "sourceUrl": "https://www.cdc.gov/respiratory-viruses/guidance/2026-update/",
+    "category": "health",
+    "publishedAt": "2026-08-31T09:30:00.000Z"
+  },
+  {
+    "headline": "NOAA forecasts above-average Atlantic hurricane activity",
+    "summary": "NOAA scientists predict an above-average Atlantic hurricane season, citing warm sea surface temperatures and reduced wind shear. Coastal communities are urged to review evacuation plans and emergency kits before peak season. Forecasters emphasize that impacts can extend well inland from landfall zones. Updated outlooks will be issued as conditions evolve through September.",
+    "sourceName": "NOAA",
+    "sourceUrl": "https://www.noaa.gov/news/noaa-2026-hurricane-outlook/",
+    "category": "science",
+    "publishedAt": "2026-08-31T08:45:00.000Z"
+  },
+  {
+    "headline": "White House announces infrastructure grants for rural broadband",
+    "summary": "The White House unveiled a new round of grants aimed at expanding high-speed internet access in rural and Tribal communities. The program prioritizes projects that lower costs for households and small businesses. Officials said faster deployment timelines are required for recipients. Applications open next month through state broadband offices nationwide.",
+    "sourceName": "White House",
+    "sourceUrl": "https://www.whitehouse.gov/briefing-room/statements/2026/08/31/rural-broadband-grants/",
+    "category": "politics",
+    "publishedAt": "2026-08-31T08:00:00.000Z"
+  },
+  {
+    "headline": "NIH funds research into early Alzheimer's detection tools",
+    "summary": "The National Institutes of Health awarded new grants to develop blood-based tests that could detect Alzheimer's disease years before symptoms appear. Researchers will study biomarkers across diverse patient groups. Early detection could allow trials of preventative therapies sooner. Results from initial studies are expected within three years at participating university hospitals.",
+    "sourceName": "NIH",
+    "sourceUrl": "https://www.nih.gov/news-events/news-releases/alzheimers-detection-grants-2026/",
+    "category": "health",
+    "publishedAt": "2026-08-30T18:00:00.000Z"
+  },
+  {
+    "headline": "FEMA deploys teams ahead of Gulf Coast storm preparations",
+    "summary": "FEMA pre-positioned response teams and supplies along the Gulf Coast as a tropical system strengthened offshore. State partners opened regional coordination centers and reviewed shelter capacity. Residents in low-lying areas were urged to monitor local alerts. Agency officials said additional aviation assets remain on standby if requests arrive from governors.",
+    "sourceName": "FEMA",
+    "sourceUrl": "https://www.fema.gov/news/2026/gulf-coast-preposition/",
+    "category": "us",
+    "publishedAt": "2026-08-30T16:30:00.000Z"
+  },
+  {
+    "headline": "NASA Webb telescope images distant galaxy merger",
+    "summary": "The James Webb Space Telescope captured detailed images of two galaxies colliding roughly eleven billion light-years away. Astronomers say the data reveal star formation triggered by the merger at rates far above the Milky Way average. The observations help explain how massive galaxies assembled in the early universe. Results appear in an upcoming astrophysics journal.",
+    "sourceName": "NASA",
+    "sourceUrl": "https://www.nasa.gov/missions/webb/galaxy-merger-2026/",
+    "category": "science",
+    "publishedAt": "2026-08-30T14:00:00.000Z"
+  },
+  {
+    "headline": "Senate panel advances bipartisan AI transparency bill",
+    "summary": "A Senate committee voted to advance legislation requiring large AI developers to publish safety evaluations and incident reports. Lawmakers from both parties said the bill balances innovation with public accountability. Tech industry groups asked for clearer definitions of covered systems. The measure heads to the full chamber after a brief amendment period next week.",
+    "sourceName": "Congress.gov",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/ai-transparency/",
+    "category": "politics",
+    "publishedAt": "2026-08-30T12:00:00.000Z"
+  },
+  {
+    "headline": "US markets edge higher as inflation data meets expectations",
+    "summary": "U.S. stocks closed modestly higher after consumer price data matched economist forecasts. Traders reduced bets on an oversized rate cut at the next Federal Reserve meeting. Energy shares led gainers while utilities lagged. Bond yields were little changed as investors weighed steady job openings against softer manufacturing surveys released earlier in the week.",
+    "sourceName": "Treasury.gov",
+    "sourceUrl": "https://home.treasury.gov/news/economic-update-2026-08-30/",
+    "category": "business",
+    "publishedAt": "2026-08-30T10:30:00.000Z"
+  },
+  {
+    "headline": "Apple previews AI features for next iPhone software release",
+    "summary": "Apple demonstrated on-device AI tools coming to its next major iPhone software update, including message summaries and photo cleanup. Executives stressed privacy by processing many tasks locally rather than in the cloud. Developers received beta access starting today. The company did not announce hardware changes, focusing instead on software integration across messaging and productivity apps.",
+    "sourceName": "Tech Policy Brief",
+    "sourceUrl": "https://example.com/apple-ai-preview-2026/",
+    "category": "tech",
+    "publishedAt": "2026-08-30T09:00:00.000Z"
+  },
+  {
+    "headline": "NFL opens season with record international broadcast reach",
+    "summary": "The National Football League kicked off its season with games streamed in more countries than ever before. League officials credited expanded digital partnerships in Europe and Latin America. Opening weekend ratings in the U.S. rose slightly compared with last year. Several teams debuted redesigned uniforms as part of marketing campaigns targeting younger viewers online.",
+    "sourceName": "Sports Desk",
+    "sourceUrl": "https://example.com/nfl-season-opener-2026/",
+    "category": "sports",
+    "publishedAt": "2026-08-29T22:00:00.000Z"
+  },
+  {
+    "headline": "Streaming platform renews hit drama for final season",
+    "summary": "A major streaming service confirmed a fourth and final season for its most-watched original drama. Producers said the story will conclude major character arcs introduced in season one. Filming begins this winter in Atlanta and Vancouver. Fans reacted online with mixed feelings about the show ending, though early reviews praised last season's writing.",
+    "sourceName": "Entertainment Weekly",
+    "sourceUrl": "https://example.com/streaming-drama-renewal-2026/",
+    "category": "entertainment",
+    "publishedAt": "2026-08-29T20:00:00.000Z"
+  },
+  {
+    "headline": "European leaders meet on Ukraine reconstruction funding",
+    "summary": "European Union leaders convened in Brussels to discuss long-term funding for Ukraine's reconstruction. Officials debated tying disbursements to governance reforms and anti-corruption benchmarks. The United States sent a delegation to coordinate on energy grid repairs. No final commitment figure was announced, though diplomats said a framework could emerge before winter.",
+    "sourceName": "State Department",
+    "sourceUrl": "https://www.state.gov/eu-ukraine-reconstruction-2026/",
+    "category": "world",
+    "publishedAt": "2026-08-29T18:00:00.000Z"
+  },
+  {
+    "headline": "CDC reports decline in youth vaping rates for third year",
+    "summary": "New CDC survey data show youth vaping rates fell for a third consecutive year nationwide. Researchers credited stricter retail enforcement and public awareness campaigns. Flavored disposable products remain the most commonly reported device type among users who continue. Health officials said sustained monitoring is needed as manufacturers adapt product designs.",
+    "sourceName": "CDC",
+    "sourceUrl": "https://www.cdc.gov/tobacco/youth-vaping-survey-2026/",
+    "category": "health",
+    "publishedAt": "2026-08-29T16:00:00.000Z"
+  },
+  {
+    "headline": "NASA and partners test electric aircraft propulsion system",
+    "summary": "NASA completed ground tests of a hybrid-electric propulsion system designed for regional aircraft. Engineers measured fuel burn reductions compared with conventional turboprops. Industry partners may incorporate lessons into commuter planes expected after 2030. The agency said flight demonstrations could begin pending additional battery safety certifications from federal regulators.",
+    "sourceName": "NASA",
+    "sourceUrl": "https://www.nasa.gov/aeronautics/electric-propulsion-test-2026/",
+    "category": "tech",
+    "publishedAt": "2026-08-29T14:30:00.000Z"
+  },
+  {
+    "headline": "Commerce Department reports rise in factory orders",
+    "summary": "The Commerce Department said factory orders rose in July, led by transportation equipment and electronics. Economists viewed the increase as a modest sign of manufacturing stabilization after a soft spring. Inventories ticked up at durable goods producers. Analysts cautioned that export demand remains uneven amid currency shifts and slower growth in key trading partners overseas.",
+    "sourceName": "Commerce.gov",
+    "sourceUrl": "https://www.commerce.gov/news/factory-orders-july-2026/",
+    "category": "business",
+    "publishedAt": "2026-08-29T12:00:00.000Z"
+  },
+  {
+    "headline": "Supreme Court adds election law case to fall docket",
+    "summary": "The Supreme Court agreed to hear a case involving mail ballot deadlines in a battleground state. Petitioners argue that extended receipt windows violate state election codes. Voting rights groups say tighter deadlines disenfranchise military and overseas voters. Oral arguments are scheduled for October, with a decision likely before the next primary season begins.",
+    "sourceName": "Supreme Court",
+    "sourceUrl": "https://www.supremecourt.gov/docket/election-law-2026/",
+    "category": "politics",
+    "publishedAt": "2026-08-29T10:00:00.000Z"
+  },
+  {
+    "headline": "MLB playoff race tightens in both leagues",
+    "summary": "Major League Baseball's playoff picture tightened as division leaders dropped weekend series. Wild-card spots remain within reach for five teams in each league with a month left. Injuries to starting pitchers reshuffled rotation plans for contenders. Analysts say tiebreaker scenarios could decide two spots in the American League Central alone.",
+    "sourceName": "Sports Desk",
+    "sourceUrl": "https://example.com/mlb-playoff-race-2026/",
+    "category": "sports",
+    "publishedAt": "2026-08-28T23:00:00.000Z"
+  },
+  {
+    "headline": "Researchers map deep-ocean currents using autonomous floats",
+    "summary": "An international team used autonomous floats to map deep-ocean currents off the U.S. West Coast for the first time at this resolution. Findings suggest faster mixing than models predicted, with implications for fisheries and carbon storage estimates. NOAA contributed funding and vessel support. Data will be released publicly to improve climate simulations used by federal agencies.",
+    "sourceName": "NOAA",
+    "sourceUrl": "https://www.noaa.gov/research/deep-ocean-currents-2026/",
+    "category": "science",
+    "publishedAt": "2026-08-28T20:00:00.000Z"
+  },
+  {
+    "headline": "White House hosts summit on housing affordability",
+    "summary": "The White House convened mayors and developers to discuss zoning reforms and financing tools for affordable housing. Participants highlighted successful state programs that reduced permitting timelines. Federal officials previewed tax incentives for converting commercial buildings to residential use. No binding agreements were signed, but several cities pledged pilot projects within six months.",
+    "sourceName": "White House",
+    "sourceUrl": "https://www.whitehouse.gov/briefing-room/housing-summit-2026/",
+    "category": "us",
+    "publishedAt": "2026-08-28T18:00:00.000Z"
+  },
+  {
+    "headline": "Open-source AI model release sparks developer debate",
+    "summary": "A consortium released a new open-source language model aimed at enterprise developers. Supporters say transparent weights enable safer customization, while critics warn about misuse without guardrails. Cloud providers announced managed hosting tiers within hours. Regulators in the EU said they would monitor deployment reports from large integrators over the coming quarter.",
+    "sourceName": "Tech Policy Brief",
+    "sourceUrl": "https://example.com/open-source-ai-model-2026/",
+    "category": "tech",
+    "publishedAt": "2026-08-28T16:00:00.000Z"
+  },
+  {
+    "headline": "Box office sees late-summer surge from original thriller",
+    "summary": "An original thriller topped the domestic box office in its opening weekend, outperforming studio projections. Exhibitors credited strong word of mouth among younger audiences and effective social marketing. International receipts were softer but covered a portion of the production budget. Studio executives said success could greenlight a sequel depending on streaming performance next month.",
+    "sourceName": "Entertainment Weekly",
+    "sourceUrl": "https://example.com/box-office-thriller-2026/",
+    "category": "entertainment",
+    "publishedAt": "2026-08-28T14:00:00.000Z"
+  },
+  {
+    "headline": "WHO and US agencies coordinate mpox vaccine shipments",
+    "summary": "U.S. and international health agencies coordinated shipments of mpox vaccines to regions reporting case increases. CDC teams deployed epidemiologists to assist with contact tracing protocols. Officials stressed that risk to the general American public remains low. Hospitals were asked to update isolation guidance and ensure diagnostic kits are available in emergency departments.",
+    "sourceName": "CDC",
+    "sourceUrl": "https://www.cdc.gov/mpox/vaccine-coordination-2026/",
+    "category": "health",
+    "publishedAt": "2026-08-28T12:00:00.000Z"
+  },
+  {
+    "headline": "Middle East diplomats resume talks on ceasefire framework",
+    "summary": "Diplomats from several Middle Eastern and European governments resumed talks aimed at a ceasefire framework after weeks of stalled negotiations. Mediators proposed phased steps including humanitarian corridors and prisoner exchanges. The State Department said the U.S. supports confidence-building measures but cautioned that gaps on governance remain wide. Talks continue behind closed doors in Geneva.",
+    "sourceName": "State Department",
+    "sourceUrl": "https://www.state.gov/middle-east-talks-2026/",
+    "category": "world",
+    "publishedAt": "2026-08-28T10:00:00.000Z"
+  },
+  {
+    "headline": "Small business loan approvals tick up in latest SBA data",
+    "summary": "The Small Business Administration reported a modest increase in loan approvals compared with the prior quarter. Lenders cited stable interest rates and clearer guidance on eligibility for renewable energy projects. Minority-owned firms represented a growing share of approved applications. Officials urged owners to prepare financial statements early amid seasonal demand for working capital.",
+    "sourceName": "SBA.gov",
+    "sourceUrl": "https://www.sba.gov/news/loan-approvals-q3-2026/",
+    "category": "business",
+    "publishedAt": "2026-08-27T18:00:00.000Z"
+  },
+  {
+    "headline": "NIH study links walkable neighborhoods to lower diabetes rates",
+    "summary": "An NIH-funded study found that adults in walkable neighborhoods had lower rates of type 2 diabetes over a decade-long follow-up. Researchers adjusted for income and healthcare access. Urban planners said findings support mixed-use zoning near transit. Authors noted the observational design cannot prove causation but aligns with prior public health literature on active transportation.",
+    "sourceName": "NIH",
+    "sourceUrl": "https://www.nih.gov/news-events/walkability-diabetes-study-2026/",
+    "category": "health",
+    "publishedAt": "2026-08-27T16:00:00.000Z"
+  },
+  {
+    "headline": "NASA rover detects seasonal methane shifts on Mars",
+    "summary": "Instruments on a NASA Mars rover recorded seasonal shifts in atmospheric methane concentrations near a crater rim. Scientists say the pattern may relate to temperature-driven surface processes, though biological sources cannot be ruled out without additional samples. Teams will compare results with orbital spectrometer data collected during the same period. Findings were published in a peer-reviewed planetary science journal.",
+    "sourceName": "NASA",
+    "sourceUrl": "https://www.nasa.gov/missions/mars/methane-seasonal-2026/",
+    "category": "science",
+    "publishedAt": "2026-08-27T14:00:00.000Z"
+  },
+  {
+    "headline": "Governors agree on interstate electric vehicle corridor plan",
+    "summary": "Governors from twelve states agreed on a coordinated plan to expand fast-charging corridors along major interstate highways. The memorandum sets targets for charger density and interoperability standards by 2028. Utilities pledged grid upgrade assessments in rural segments. Federal transportation officials said matching grant applications will open this fall for qualifying segments.",
+    "sourceName": "DOT.gov",
+    "sourceUrl": "https://www.transportation.gov/ev-corridor-plan-2026/",
+    "category": "us",
+    "publishedAt": "2026-08-27T12:00:00.000Z"
+  },
+  {
+    "headline": "Cyber agency warns of phishing wave targeting tax professionals",
+    "summary": "The Cybersecurity and Infrastructure Security Agency warned of a phishing campaign targeting tax professionals ahead of filing season preparations. Attackers use spoofed client portals to steal credentials and filing data. Agencies recommend multi-factor authentication and verified sender checks. Incident reports can be submitted through the federal fraud portal for rapid takedown coordination.",
+    "sourceName": "CISA.gov",
+    "sourceUrl": "https://www.cisa.gov/news/phishing-tax-professionals-2026/",
+    "category": "tech",
+    "publishedAt": "2026-08-27T10:00:00.000Z"
+  },
+  {
+    "headline": "Olympic committee confirms venue list for next Winter Games",
+    "summary": "The International Olympic Committee confirmed the venue list for the next Winter Games, spreading events across two clusters to reduce travel. Organizers said sustainability targets include renewable power for indoor arenas. Ticket sales will open in phases beginning next spring. U.S. broadcasters announced expanded streaming options for niche sports including biathlon and curling.",
+    "sourceName": "Sports Desk",
+    "sourceUrl": "https://example.com/winter-olympics-venues-2026/",
+    "category": "sports",
+    "publishedAt": "2026-08-26T20:00:00.000Z"
+  }
+]
